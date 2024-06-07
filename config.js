@@ -10,20 +10,20 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915'], ['51948705559']]
+global.owner = [['212681951915', 'ALI-DIBMINE', true], ['212681951915'], ['212681951915'], ['212681951915'], ['212681951915'], ['212681951915'], ['212681951915'], ['212681951915']]
 global.mods = [] 
 global.prems = []
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+212601742616" //Ejemplo: +59309090909
 global.confirmCode = "" 
 
 //---------[ IDIOMA : LENGUAJE ]---------
 //es = Español         id = Bahasa Indonesia
 //en = English         pt = Português
 //ar = عرب 
-global.lenguajeGB = es  
+global.lenguajeGB = ar  
 
 //---------[ APIS GLOBAL ]---------
 
@@ -74,28 +74,28 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = 'STICKER'
+global.author = 'SOHILBO-MD'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'SOHILBOT-MD'
 global.vs = '1.6.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://www.youtube.com/'
+global.tiktok = 'tiktok.com/@alinafis284'
+global.md = 'https://github.com/'
+global.fb = 'https://www.facebook.com/'
+global.face = 'https://www.facebook.com/'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/573147616444'
+global.nna = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Update
+global.nn = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/212681951915'
 global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
@@ -113,11 +113,11 @@ global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
+global.wait = '*⌛ _Charging..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Charging..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Charging..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Charging..._ ▬▬▬▬▬▬▭*'
+global.waittttt = '*⌛ _Charging..._ ▬▬▬▬▬▬▬*'
 global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
 global.resultado = rg
 global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
